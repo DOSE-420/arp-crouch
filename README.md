@@ -1,4 +1,4 @@
 ``QB Framework Based``
 
-**Optimized Coruch & Stealth Aim**
+**Optimized Crouch & Stealth Aim**
 
